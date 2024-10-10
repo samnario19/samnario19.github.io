@@ -15,8 +15,7 @@
         <!-- About Me Content -->
         <div class="md:w-2/3 mb-8 md:mb-0">
           <p class="text-lg text-purple-300 mb-4 ">
-            I'm currently working as a freelancer in non-IT fields, but I aspire to become a front-end developer in the future.
-            such as Bartender, Waiter, Caterer and Lights and Sounds helper
+            I'm currently working as a freelancer in non-IT fields such as Bartender, Waiter, Caterer and Lights and Sounds helper but I aspire to become a front-end developer in the future.
           </p>     
            <p class="text-lg text-purple-300 mb-4 ">
             I also enjoy activities like buying and selling items, particularly bike parts. It’s a great way for me to earn money, 
