@@ -25,8 +25,9 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Install particle.js
-        run: npm install particles.js
+      - name: Install particle
+        run: npm install tsparticles
+
 
       - name: Build SvelteKit app
         run: npm run build
